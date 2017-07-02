@@ -17,3 +17,5 @@ add info from master
 add from branch feature1
 
 add from branch feature2
+
+add from branch feature3
