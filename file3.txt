@@ -3,3 +3,4 @@ init file3.txt
 add in dev branch
 
 add from feature4 line1
+add from feature4 line2
