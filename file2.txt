@@ -1,1 +1,3 @@
 file2.txt init...
+
+add the thrid line in file2.txt
