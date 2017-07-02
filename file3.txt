@@ -5,3 +5,7 @@ add in dev branch
 add from feature4 line1
 add from feature4 line2
 add from feature4 line3
+
+add from feature5 line1
+add from feature5 line2
+add from feature5 line3
