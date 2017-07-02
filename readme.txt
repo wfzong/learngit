@@ -15,3 +15,5 @@ no ff merge
 add info from master
 
 add from branch feature1
+
+add from branch feature2
