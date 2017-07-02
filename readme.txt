@@ -8,3 +8,5 @@ Git tracks changes of files.
 add info from dev branch
 
 fast forward merge
+
+no ff merge
