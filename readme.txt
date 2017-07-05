@@ -6,3 +6,12 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 add info from dev branch
+
+fast forward merge
+
+no ff merge
+
+
+add info from master
+
+add from branch feature1
