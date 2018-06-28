@@ -21,3 +21,5 @@ add from branch feature2
 add from branch feature3
 
 new line from master
+
+这里是一个最新正式版本，v1.0.0
