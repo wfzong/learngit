@@ -12,7 +12,7 @@ fast forward merge
 no ff merge
 
 
-add info from master
+add info ro master
 
 add from branch feature1
 
