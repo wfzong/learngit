@@ -1,16 +1,1 @@
-init file3.txt
-
-add in dev branch
-
-add from feature4 line1
-add from feature4 line2
-add from feature4 line3
-
-
-
-add from feature5 line1
-add from feature5 line2
-add from feature5 line3
-edit from alexwangCN
-
-add samething from dev branch
+modify for rebase at 2019.10.16
